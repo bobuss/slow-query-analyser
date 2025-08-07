@@ -20,7 +20,7 @@ A React-based dashboard for analyzing and visualizing MySQL/MariaDB slow query l
 ## Quick Start
 
 ### Option 1: Use the Hosted Version
-Visit the live application at: **https://yourusername.github.io/slow-query-analyser/**
+Visit the live application at: **https://bobuss.github.io/slow-query-analyser/**
 
 ### Option 2: Run Locally
 
@@ -106,7 +106,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Deployment
 
-The application is automatically deployed to GitHub Pages on every push to the main branch via GitHub Actions. 
+The application is automatically deployed to GitHub Pages on every push to the main branch via GitHub Actions.
 
 ### Manual Deployment Steps
 
@@ -118,7 +118,7 @@ If you want to deploy to your own GitHub Pages:
 
 2. **Push to main branch** - the workflow will automatically build and deploy
 
-3. **Access your app** at `https://yourusername.github.io/repository-name/`
+3. **Access your app** at `https://bobuss.github.io/repository-name/`
 
 The deployment workflow:
 - Builds the React app using Vite
